@@ -164,6 +164,12 @@
         <mxCell id="X61RnXW4YofN9kBGOQYU-107" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="WPSCoreHostUser&lt;div&gt;WPSCommandHostUser&lt;/div&gt;&lt;div&gt;WPSBackupGenuser&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="587.71" y="1317.5" as="geometry" />
         </mxCell>
+        <mxCell id="VYn17g_xRHgyxmoxyVLd-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Command Host" vertex="1">
+          <mxGeometry height="40" width="90" x="-60" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="VYn17g_xRHgyxmoxyVLd-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Commands are sent in request response and in queue" vertex="1">
+          <mxGeometry height="30" width="60" x="-50" y="1530" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
